@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+we are committed to accessibility.There are no limits to what people can achieve when technology reflects the diversity of everyone.
+
 🙋‍♀️ A short introduction - what is your organization all about?
 
 AI definitely make someone`s life much better than before.I got a disable father,after R&D in the AI field,I always wonder
