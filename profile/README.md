@@ -1,6 +1,9 @@
 ## Hi there 👋
 
+
 we are committed to accessibility.There are no limits to what people can achieve when technology reflects the diversity of everyone.
+
+AI for Accessibility is a commnuity committed to empowering people living with disabilities.
 
 🙋‍♀️ A short introduction - what is your organization all about?
 
